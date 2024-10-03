@@ -1,4 +1,7 @@
 
+Note: I am Removing the Main/Client projects from this repo
+If you want to learn or do you want project in VBA/Python/ML/DL/AI - Feel free to reach out through Email: mechvijaiy@gmail.com  
+
 **What is VBA?**
 
 VBA (Visual Basic for Applications) is a programming language developed by Microsoft as part of its Office suite, particularly Excel. It allows users to create macros, automate tasks, and interact with applications such as Word, PowerPoint, and Outlook.
